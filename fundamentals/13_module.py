@@ -3,7 +3,7 @@
 # ===========================================
 # import helper                      # 1 way of import
 # import helper as h                 # 2nd way of import by setting an alias
-from helper import isNegetive, User  # 3rd way importin only required functions & classes
+from helper import isNegetive, User  # 3rd way importing only required functions & classes
 # ==========================
 # importing Built-in module
 # ==========================
