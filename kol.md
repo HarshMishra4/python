@@ -1,2 +1,1 @@
-Test txt
-Hola Mola
+This repo contains some fundamental concepts of PYTHON programming
