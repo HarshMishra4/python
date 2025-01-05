@@ -1,4 +1,4 @@
 #This repo contains some fundamental concepts of PYTHON programming.
 <code>
-	system.out.print | Hola |
+	system.out.print | Hola Mola |
 <\code>
